@@ -1,4 +1,3 @@
-# 💫 About Me:
 🔭 I'm a student passionate for programming and Software development<br>🤝 My goal is put into practice and share with a teamwork the skills and knowledge that I have acquired learning in a self-taught way<br>🌱 Currently, I'm learning about Full-stack development techs<br>⚡ I love to drink coffee while I'm programming☕
 
 
